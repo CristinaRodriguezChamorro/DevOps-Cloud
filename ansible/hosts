@@ -7,3 +7,10 @@ lab-docker.frontend.lab
 
 [podman]
 lab-podman.frontend.lab
+
+[contenedores]
+lab-docker.frontend.lab
+lab-podman.frontend.lab
+
+[laptop]
+vm-master ansible_user=adminUsername
